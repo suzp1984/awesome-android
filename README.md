@@ -11,7 +11,7 @@ Drawable
 ========
 Name | License | Demo
 -----|---------|-----
-[ToggleDrawable](https://github.com/renaudcerrato/ToggleDrawable) | Apache License 2.0 | *
+[ToggleDrawable](https://github.com/renaudcerrato/ToggleDrawable) | Apache License 2.0 | <img src="https://github.com/renaudcerrato/ToggleDrawable/raw/master/artworks/toggle.gif" width="50%">
 
 Custome View
 ============
