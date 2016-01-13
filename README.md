@@ -1,4 +1,4 @@
-# awesome-android
+# Sensational-android
 all things to become a better android developer
 
 # Another Similar Awesome projects
