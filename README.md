@@ -35,7 +35,7 @@ Name | License | Demo
 -----|---------|-----
 [FloatingSearchView](https://github.com/renaudcerrato/FloatingSearchView) | Apache License 2.0 | <img src="https://github.com/renaudcerrato/FloatingSearchView/raw/master/assets/demo.gif" width="50%" >
 [Android SlidingUpPanel](https://github.com/umano/AndroidSlidingUpPanel) | Apache License 2.0 | <img src="https://camo.githubusercontent.com/834cfd81ce764457db69dc023e1bd0adf0a8d00d/68747470733a2f2f7261772e6769746875622e636f6d2f756d616e6f2f416e64726f6964536c6964696e67557050616e656c44656d6f2f6d61737465722f736c6964696e67757070616e656c2e706e67" width="25%">
-
+[Draggable Panel](https://github.com/pedrovgs/DraggablePanel) | Apache License 2.0 | <img src="https://github.com/pedrovgs/DraggablePanel/blob/develop/art/screenshot1.gif width="25%">
 
 
 ## Animations
