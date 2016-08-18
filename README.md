@@ -14,6 +14,8 @@ all things to become a better android developer, copy the idea from [wasabeef](h
 Name | License | Demo
 -----|---------|-----
 [Dagger 2](http://google.github.io/dagger/) | Apache License 2.0 | [github source code](https://github.com/google/dagger)
+[Philm: MVC](https://github.com/chrisbanes/philm) | Apache License 2.0 | [Source Code](https://github.com/chrisbanes/philm)
+[android boilerplate](https://github.com/ribot/android-boilerplate) | Apache License 2.0 | [Source Code](https://github.com/ribot/android-boilerplate)
 
 # UI/UX
 
