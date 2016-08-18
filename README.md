@@ -45,4 +45,5 @@ Name | License | Demo
 [Material-Animations](https://github.com/lgvalle/Material-Animations) | MIT | <img src="https://raw.githubusercontent.com/lgvalle/Material-Animations/master/screenshots/transition_fade.gif" width="50%" >
 [animate](https://github.com/hitherejoe/animate) | None | <img src="https://raw.githubusercontent.com/hitherejoe/animate/master/images/web.png">
 [ListView Animations](https://github.com/nhaarman/ListViewAnimations) | Apache License 2.0 | <img src="https://raw.githubusercontent.com/nhaarman/ListViewAnimations/gh-pages/images/dynamiclistview.gif" width="50%">
+[Material Design](https://github.com/chrisbanes/cheesesquare) | Apache License 2.0 | <img src="https://raw.githubusercontent.com/chrisbanes/cheesesquare/master/art/icon.png" width="50%">
 
