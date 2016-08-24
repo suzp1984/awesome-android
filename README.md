@@ -15,7 +15,7 @@ Name | License | Demo
 -----|---------|-----
 [Dagger 2](http://google.github.io/dagger/) | Apache License 2.0 | [github source code](https://github.com/google/dagger)
 [Philm: MVC](https://github.com/chrisbanes/philm) | Apache License 2.0 | [Source Code](https://github.com/chrisbanes/philm)
-[android boilerplate](https://github.com/ribot/android-boilerplate) | Apache License 2.0 | [Source Code](https://github.com/ribot/android-boilerplate)
+[android boilerplate: MVP](https://github.com/ribot/android-boilerplate) | Apache License 2.0 | [Source Code](https://github.com/ribot/android-boilerplate)
 [Agera](https://github.com/google/agera) | Apache License 2.0 | <img src="https://raw.githubusercontent.com/google/agera/master/doc/images/agera.png" width="50%">
 [RxJava](https://github.com/ReactiveX/RxJava) | Apache License 2.0 | [Reactive Extensions](http://reactivex.io/)
 
