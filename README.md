@@ -18,6 +18,7 @@ Name | License | Demo
 [android boilerplate: MVP](https://github.com/ribot/android-boilerplate) | Apache License 2.0 | [Source Code](https://github.com/ribot/android-boilerplate)
 [Agera](https://github.com/google/agera) | Apache License 2.0 | <img src="https://raw.githubusercontent.com/google/agera/master/doc/images/agera.png" width="50%">
 [RxJava](https://github.com/ReactiveX/RxJava) | Apache License 2.0 | [Reactive Extensions](http://reactivex.io/)
+[ButterKnife](https://github.com/JakeWharton/butterknife) | Apache License 2.0 | <img src="https://github.com/JakeWharton/butterknife/blob/master/website/static/logo.png" width="50%">
 
 # UI/UX
 
