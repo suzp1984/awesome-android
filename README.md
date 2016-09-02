@@ -28,6 +28,7 @@ Name | License | Demo
 -----|---------|-----
 [Drag and Swipe](https://github.com/iPaulPro/Android-ItemTouchHelper-Demo) | Apache License 2.0 | [Medium article](https://medium.com/@ipaulpro/drag-and-swipe-with-recyclerview-b9456d2b1aaf#.upgpb9qys)
 [RecyclerView Animators](https://github.com/wasabeef/recyclerview-animators) | Apache License 2.0 | <img src="https://github.com/wasabeef/recyclerview-animators/blob/master/art/logo.jpg">
+[RecyclerView Playground](https://github.com/devunwired/recyclerview-playground) | MIT License | ...
 
 ## Image / Drawable
 
